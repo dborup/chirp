@@ -1,0 +1,9 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,PMR46 ch 1,446.006250,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+2,PMR46 ch 2,446.018750,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+3,PMR46 ch 3,446.031250,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+4,PMR46 ch 4,446.043750,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+5,PMR46 ch 5,446.056250,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+6,PMR46 ch 6,446.068750,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+7,PMR46 ch 7,446.081250,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
+8,PMR46 ch 8,446.093750,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,6.25,,5.0W,,,,,
